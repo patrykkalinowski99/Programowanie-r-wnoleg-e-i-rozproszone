@@ -1,1 +1,2 @@
 Źródło: https://keras.io/examples/generative/neural_style_transfer/
+Ze względu na długi czas kompilacji, zmniejszyłem ilość iteracji do 500 (ok 3minut) zamiast 4000 (ok 60minut).
